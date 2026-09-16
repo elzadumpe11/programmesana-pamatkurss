@@ -1,1 +1,1 @@
-print("Nomaina sveiciena tekstu!")
+print("Nomaina sveiciena tekstuu!")
