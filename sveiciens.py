@@ -1,1 +1,1 @@
-print("elza!")
+print("Nomaina sveiciena tekstu!")
