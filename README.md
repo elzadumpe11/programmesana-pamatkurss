@@ -1,3 +1,7 @@
-# programmesana-pamatkurss
-elzadumpe11
-\\ri.riga.lv\rag\Audzekni\edumpe4\My Documents\GitHub\programmesana-pamatkurss\programmesana-pamatkurss
+# Programmēšana - pamatkurss
+Autors: **Elza Dumpe**
+## Kā palaist
+-Nospiest pogu palaist
+-Apstiprināt
+## Licence
+MIT liceņze ir ļoti vienkārša un brīva programmatūras licence, kas ļauj ikvienam bez maksas izmantot, mainīt un izplatīt kodu, ja vien tiek saglabāts oriģinālais autortiesību paziņojums.
