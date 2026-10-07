@@ -1,8 +1,8 @@
 **Parbaudes darbs1 Elza Dumpe**
 
-##Palaisana
+## Palaisana
 
-##Ergonomika
+## Ergonomika
 -
 -
 -
