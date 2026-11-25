@@ -9,11 +9,11 @@
 6. Ja skaitļi nesakrīt, parādīt "Tu zaudēji"
 7. Parādīt pareizo skaitli
 
- ## | Mainīgā vārds      | datu tips| ko glabā                       |
- ### | :----------------  | :------: | ----:                         |
- ### |nejaušais_skaitlis  |   int    |datora ģenerēto skaitli        |
- ### |speletaja_skaitlis  |   int    |spēlētyāja ieadīto skaitli     |
- ### |starpība            |  int     |starpību starp abiem skaitļiem |
+##  | Mainīgā vārds      | datu tips| ko glabā                      |
+### | :----------------  | :------: | ----:                         |
+### |nejaušais_skaitlis  |   int    |datora ģenerēto skaitli        |
+### |speletaja_skaitlis  |   int    |spēlētyāja ieadīto skaitli     |
+### |starpība            |  int     |starpību starp abiem skaitļiem |
 
 starpība=abs(spēlētāja skaitlis-nejaušais skaitlis)
 
