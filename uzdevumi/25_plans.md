@@ -29,6 +29,7 @@ starpība=abs(5-5)=0
 Lieli skaitļi:
 starpība=abs(10-8)=2
 
-## Secinājums:Formulu ir vērts pārbaudīt pirms visas programmas rakstīšanas, jo tas ļauj savlaicīgi atklāt un izlabot matemātiskās vai loģikas kļūdas pirms tās tiek ieprogrammētas, tādējādi ietaupot laiku un izvairoties no sarežģītas kļūdu meklēšanas lielā koda apjomā.
+## Secinājums:
+Formulu ir vērts pārbaudīt pirms visas programmas rakstīšanas, jo tas ļauj savlaicīgi atklāt un izlabot matemātiskās vai loģikas kļūdas pirms tās tiek ieprogrammētas, tādējādi ietaupot laiku un izvairoties no sarežģītas kļūdu meklēšanas lielā koda apjomā.
 
 
